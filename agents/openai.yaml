@@ -1,0 +1,4 @@
+interface:
+  display_name: "Biomolecular 3D"
+  short_description: "利用 RCSB 坐标制作蛋白质、核酸与复合物三维模型和教学互动"
+  default_prompt: "用 $biomacromolecule-3d 从 RCSB 选择合适结构，制作可旋转、可分层观察的大分子三维模型，并在浏览器中验证。"
