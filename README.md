@@ -25,27 +25,6 @@ A Codex skill for interactive 3D models of proteins, DNA, RNA, and molecular com
 
 这是一种方便选题的分组，类别会交叉；药物、ATP、色素和金属离子本身不属于生物大分子。RCSB 同时提供实验结构和计算结构模型的访问，使用时需要区分来源。[官方数据介绍](https://www.rcsb.org/pages/about-us/index)
 
-## 可以做成哪些互动科普？
-
-下面列出 **12 个可以继续制作的方向**。每个都附上已核对的真实结构入口；“互动设计”是基于这些数据可开展的教学创意，页面需要结合目标项目实现。
-
-| 科普选题 | 真实结构入口 | 可以让学生亲手做什么 |
-| --- | --- | --- |
-| **血液里的氧气运输车** | 血红蛋白 [4HHB](https://www.rcsb.org/structure/4HHB) | 旋转观察四个亚基，逐个找到血红素和铁；用结合示意理解氧气运输。该条目是脱氧状态 |
-| **会发绿光的蛋白质** | 绿色荧光蛋白 [1GFL](https://www.rcsb.org/structure/1GFL) | 从外部桶状结构切到内部发色团，切换激发/发光的教学示意，探索“发光核心藏在哪里” |
-| **细胞膜上的水分子专用门** | 水通道蛋白 [1FQY](https://www.rcsb.org/structure/1FQY) | 沿孔道观察内部结构，放大关键位置，用有机制依据的示意比较不同粒子的通行 |
-| **眼泪中的防御工具** | 溶菌酶 [1LYZ](https://www.rcsb.org/structure/1LYZ) | 寻找表面沟槽和活性位点，结合另选的底物复合物展示识别过程，理解形状与功能的关系 |
-| **抗体为什么像一个 Y？** | 免疫球蛋白 [1IGT](https://www.rcsb.org/structure/1IGT) | 按链着色，选择两端与柄部，标出抗原结合区域，观察不同部件的空间关系 |
-| **两米长的 DNA 怎样收进细胞核？** | 核小体 [1AOI](https://www.rcsb.org/structure/1AOI) | 在完整结构、DNA 和组蛋白之间切换，沿 DNA 路径追踪缠绕，比较展开与包装的示意 |
-| **RNA 也会折成立体形状** | 转运 RNA [1EHZ](https://www.rcsb.org/structure/1EHZ) | 对照二维结构图和三维折叠，找到反密码子与氨基酸连接端，观察它们相隔多远 |
-| **细胞里的蛋白质工厂** | 核糖体 [4V9D](https://www.rcsb.org/structure/4V9D) | 分别高亮蛋白与 RNA，观察大小亚基和 tRNA 位置，设计分步骤的翻译过程示意 |
-| **细胞骨架的积木** | α/β 微管蛋白 [1JFF](https://www.rcsb.org/structure/1JFF) | 区分两种亚基，再依据装配资料搭建微管示意；原条目来自稳定化片层，不直接当作完整天然微管 |
-| **细胞里运货的小马达** | 驱动蛋白结构域 [2KIN](https://www.rcsb.org/structure/2KIN) | 近看马达结构域与核苷酸结合区；如要制作沿微管行走，另选含微管的复合物并补充机制资料 |
-| **植物的分子级太阳能装置** | 光系统 II–捕光复合物 [5XNL](https://www.rcsb.org/structure/5XNL) | 在蛋白框架与色素之间切换，高亮捕光天线，分层展示能量传递的教学路径 |
-| **眼睛怎样把光变成信号？** | 视紫红质 [1F88](https://www.rcsb.org/structure/1F88) | 找到跨膜螺旋与视黄醛，结合其他状态结构和机制资料，对照光刺激前后的变化 |
-
-这些主题的教学背景可以从 RCSB 官方的 [PDB-101 Molecule of the Month](https://pdb101.rcsb.org/motm/motm-by-title) 继续查阅。单个条目提供特定状态下的结构，反应过程与运动需要额外的机制依据。
-
 ## 拿到的不只是一个外形
 
 | 数据与资料 | 能用来做什么 |
